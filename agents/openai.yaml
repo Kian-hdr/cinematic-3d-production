@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinematic 3D Production"
+  short_description: "Plan and produce Blender-to-Unreal 3D visuals"
+  default_prompt: "Use $cinematic-3d-production to interview me about a 3D still or animation, then plan and produce it with Blender and Unreal Engine."

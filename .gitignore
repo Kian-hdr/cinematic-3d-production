@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.blend1
+*.blend2
+*.uproject
+*.umap
+*.uasset
+*.mp4
+*.mov
+*.exr
+*.wav
+__pycache__/
