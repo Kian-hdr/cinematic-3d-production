@@ -1,6 +1,6 @@
 ---
 name: cinematic-3d-production
-description: Plan, create, and verify cinematic 3D stills or animations with Blender asset authoring and Unreal Engine final rendering. Use for product, architectural, scientific, or story-driven visualization when visual quality and recoverable production matter. Do not treat cinematic imagery as engineering or simulation proof.
+description: Plan, create, and verify cinematic 3D stills or animations with Blender asset authoring, Unreal Engine viewport-first storyboards, continuous capture and final rendering. Use for product, architectural, scientific, or story-driven visualization when visual quality and recoverable production matter. Do not treat cinematic imagery as engineering or simulation proof.
 ---
 
 # Cinematic 3D production
@@ -20,6 +20,16 @@ Turn a visual brief into an editable, reviewable still or film. Blender is the d
 - Build a timed animatic at the intended playback speed before detailed production. Check action readability, transitions, and audio space. Label accelerated rig tests and low-quality previews accurately.
 - For multiple aspect ratios, plan distinct compositions and edits where the brief requires them. Share assets and action, then adjust camera, framing, text clearance, and timing for each actual output gate. Do not assume a center crop is sufficient.
 - For a single still, use a proportionate composition proof and proceed to the final image; a storyboard or scheduling system is unnecessary.
+
+## Viewport-first proof and capture
+
+Read [viewport-first production and evidence](references/viewport-first-production.md) for film boards, animatics, motion review or costly capture work.
+
+- Resolve the complete timed story with inexpensive actual viewport imagery, rights-cleared source art and editable vector blocking. Keep AI-assisted design vector-only; do not generate raster imagery or textures. Preserve the user's source and selected story.
+- Deliver the complete normal-speed preview before detailed production. A compressed rig test must show its actual playback speed. For long actions, review the entire action at intended timing as well as a short rendering-quality proof.
+- Retain engine sessions when reliable, continuously evaluate animation, and preserve every output frame with a controlled source clock. Benchmark built-in capture before custom backends. A jump/pause/screenshot loop does not establish equivalent motion or temporal history.
+- Watch full motion and check boundary contamination, ghosting, flicker, intersections and missing objects. An enhanced viewport capture may become the final master when its observed quality and the brief's format/audio checks pass. Offline high-sample rendering remains an option, not an automatic extra step.
+- State native output dimensions, internal resolution/upscaling, output fps and playback speed separately. Bind every result to its actual source revision, camera, recipe, frame range and review scope. Preserve explicit user review gates in the brief.
 
 ## Build and render
 

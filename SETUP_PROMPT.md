@@ -10,7 +10,7 @@ on this machine, then verify that it is ready for a real project.
 1. Identify this agent's documented skill location and check for an existing
    cinematic-3d-production skill. Preserve any existing version or local edits;
    do not overwrite them. Clone or update the repository into the appropriate
-   user-level or project-level skill location. Read SKILL.md and its setup
+   user-level or project-level skill location (release v1.1.0). Read SKILL.md and its setup
    reference. Verify that this agent can discover or explicitly load the skill.
 2. Inspect the OS, CPU/GPU, graphics drivers, RAM, free storage, existing
    Blender and Unreal Engine installations, project version requirements, and
