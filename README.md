@@ -31,6 +31,10 @@ For Claude Code, clone into `~/.claude/skills/cinematic-3d-production` instead. 
 
 The skill is intentionally separate from engineering validation and native simulator evidence. Cinematic effects and reconstructions must be labeled accurately when scientific or safety claims matter.
 
+## Standalone storyboard editor
+
+[Storyboard Studio](https://github.com/Exlumina/storyboard-studio) is a separately maintained, MIT-licensed editor from Exlumina for editable branching boards, timed references, feedback and renderer handoff. Its public package includes synthetic examples and does not start rendering automatically. It is optional and is not bundled with this workflow skill; its tests do not establish a project's creative or renderer acceptance.
+
 ## Tools and accounts
 
 Blender and Unreal Engine are required for the default production route. FFmpeg or an equivalent encoder/probe is useful for films. Speech, music, cloud compute, and paid plugins are optional and should be chosen for the actual brief. Check current [Blender system requirements](https://www.blender.org/download/requirements/) and [Unreal hardware requirements](https://dev.epicgames.com/documentation/unreal-engine/hardware-and-software-specifications-for-unreal-engine) before installing; an Epic account and license acceptance may be needed for an Unreal download. See [setup guidance](references/setup.md).
