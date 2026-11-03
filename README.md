@@ -4,7 +4,13 @@ An agent skill for taking a cinematic 3D still or animation from brief to verifi
 
 The skill is a production guide. It does not include Blender, Unreal Engine, paid assets, credentials, or a render farm. It scales from one still to a multi-shot film and keeps project-specific formats, providers, budgets, and approvals in the user's brief.
 
-Version **1.1.0** adds a portable viewport-first workflow. [Download the release](https://github.com/Kian-hdr/cinematic-3d-production/releases/tag/v1.1.0) or inspect [validation scope](VALIDATION.md).
+Version **1.1.0** adds a portable viewport-first workflow. See [validation scope](VALIDATION.md).
+
+<!-- direct-downloads -->
+[![Download skill ZIP](https://img.shields.io/badge/Download%20skill%20ZIP-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kian-hdr/cinematic-3d-production/releases/download/v1.1.0/Cinematic_3D_Production_v1.1.0.zip)
+
+[Download skill ZIP](https://github.com/Kian-hdr/cinematic-3d-production/releases/download/v1.1.0/Cinematic_3D_Production_v1.1.0.zip) · [Release v1.1.0](https://github.com/Kian-hdr/cinematic-3d-production/releases/tag/v1.1.0)
+<!-- /direct-downloads -->
 
 ## Start here
 
