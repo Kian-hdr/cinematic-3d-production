@@ -6,11 +6,15 @@ The skill is a production guide. It does not include Blender, Unreal Engine, pai
 
 Version **1.1.0** adds a portable viewport-first workflow. See [validation scope](VALIDATION.md).
 
-<!-- direct-downloads -->
-[![Download skill ZIP](https://img.shields.io/badge/Download%20skill%20ZIP-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kian-hdr/cinematic-3d-production/releases/download/v1.1.0/Cinematic_3D_Production_v1.1.0.zip)
+## Download
 
-[Download skill ZIP](https://github.com/Kian-hdr/cinematic-3d-production/releases/download/v1.1.0/Cinematic_3D_Production_v1.1.0.zip) · [Release v1.1.0](https://github.com/Kian-hdr/cinematic-3d-production/releases/tag/v1.1.0)
-<!-- /direct-downloads -->
+<p>
+<a href="https://github.com/Kian-hdr/cinematic-3d-production/releases/download/v1.1.0/Cinematic_3D_Production_v1.1.0.zip"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download ZIP"></a>
+</p>
+
+[skill ZIP · v1.1.0](https://github.com/Kian-hdr/cinematic-3d-production/releases/download/v1.1.0/Cinematic_3D_Production_v1.1.0.zip)
+
+[Release notes](https://github.com/Kian-hdr/cinematic-3d-production/releases/tag/v1.1.0)
 
 ## Start here
 
