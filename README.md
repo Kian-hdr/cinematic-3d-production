@@ -1,4 +1,4 @@
-# Cinematic 3D Production
+<p align="center"><strong>Cinematic 3D Production</strong></p>
 
 An agent skill for taking a cinematic 3D still or animation from brief to verified delivery. It interviews the user for missing creative and technical decisions, authors editable assets in Blender, renders final 3D imagery in Unreal Engine, and checks the finished media.
 
@@ -6,9 +6,7 @@ The skill is a production guide. It does not include Blender, Unreal Engine, pai
 
 Version **1.1.0** adds a portable viewport-first workflow. See [validation scope](VALIDATION.md).
 
-## Download
-
-<p>
+<p align="center">
 <a href="https://github.com/Kian-hdr/cinematic-3d-production/releases/download/v1.1.0/Cinematic_3D_Production_v1.1.0.zip"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download ZIP"></a>
 </p>
 
